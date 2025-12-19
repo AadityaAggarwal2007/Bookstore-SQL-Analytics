@@ -138,6 +138,7 @@ SELECT *
 FROM ranked_customers
 WHERE spend > avg_monthly_spend;
 ```
+<img width="1586" height="1192" alt="image" src="https://github.com/user-attachments/assets/88af99ac-71b9-4282-bf28-842d8fbea0fc" />
 
 📊 Table view used to showcase qualifying customers.
 
