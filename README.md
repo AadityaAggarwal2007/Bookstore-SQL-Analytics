@@ -70,6 +70,8 @@ SELECT
 FROM monthly_revenue;
 ```
 
+<img width="1586" height="1192" alt="image" src="https://github.com/user-attachments/assets/c9e686ea-6562-427a-88bb-2c3311ee0965" />
+
 📊 Table snapshot added to visually show revenue growth progression.
 
 ---
@@ -105,6 +107,7 @@ SELECT genre, title, total_revenue
 FROM ranked_books
 WHERE rnk = 1;
 ```
+<img width="1588" height="1304" alt="image" src="https://github.com/user-attachments/assets/d69e38e8-60b0-4deb-8290-048fb57a4368" />
 
 📊 Output table highlights genre-wise bestsellers.
 
@@ -138,6 +141,7 @@ SELECT *
 FROM ranked_customers
 WHERE spend > avg_monthly_spend;
 ```
+
 <img width="1586" height="1192" alt="image" src="https://github.com/user-attachments/assets/88af99ac-71b9-4282-bf28-842d8fbea0fc" />
 
 📊 Table view used to showcase qualifying customers.
@@ -175,6 +179,8 @@ FROM cumulative_revenue
 WHERE running_revenue / total_revenue <= 0.80;
 ```
 
+<img width="1588" height="1170" alt="image" src="https://github.com/user-attachments/assets/365e809d-af1a-49e2-8992-8a51931fd0e3" />
+
 📊 Output clearly shows revenue concentration.
 
 ---
@@ -210,6 +216,8 @@ SELECT *
 FROM city_ranking
 WHERE rnk IN (1, 2);
 ```
+
+<img width="1588" height="1170" alt="image" src="https://github.com/user-attachments/assets/2d98367e-ade3-4d84-bba2-da243af90d4d" />
 
 📊 Table snapshot improves clarity and impact.
 
