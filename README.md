@@ -2,7 +2,7 @@
 
 A structured SQL analytics project that models a bookstore sales system and answers real business questions using clean, production-style queries.
 
-<img width="160" height="106" alt="image" src="https://github.com/user-attachments/assets/80aaeb42-3511-4e57-9ecc-0179ab2e17b6" />
+<img width="1536" height="1024" alt="ChatGPT Image Dec 20, 2025, 02_06_14 AM" src="https://github.com/user-attachments/assets/6ea22fe7-83dc-406f-842a-020498a4c1bc" />
 
 ---
 
